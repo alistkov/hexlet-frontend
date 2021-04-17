@@ -1,0 +1,20 @@
+{
+  "name": "js-start-template",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alistkov/js_template.git"
+  },
+  "author": "Anton Listkov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alistkov/js_template/issues"
+  },
+  "homepage": "https://github.com/alistkov/js_template#readme"
+}
