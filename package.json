@@ -5,7 +5,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npx jest --bail"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,16 @@
   "bugs": {
     "url": "https://github.com/alistkov/js_template/issues"
   },
-  "homepage": "https://github.com/alistkov/js_template#readme"
+  "homepage": "https://github.com/alistkov/js_template#readme",
+  "jest": {
+    "testEnvironment": "node",
+    "transform": {},
+    "testRunner": "jest-circus/runner"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3",
+    "jest-circus": "^26.6.3",
+    "jest-cli": "^26.6.3",
+    "@jest/globals": "^26.6.2"
+  }
 }
