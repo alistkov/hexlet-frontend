@@ -5,7 +5,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "npx jest --bail"
+    "test": "npx jest --bail",
+    "test-watch": "npx jest --watch",
+    "start": "nodemon index.js"
   },
   "repository": {
     "type": "git",
