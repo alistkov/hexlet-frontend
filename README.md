@@ -1,29 +1,8 @@
-# Стартовый шаблон
+Профессия
 
-[![linter-check](https://github.com/alistkov/js-template/actions/workflows/linter-check.yml/badge.svg)](https://github.com/alistkov/js-template/actions/workflows/linter-check.yml)
+# [Frontend-разработчик](https://ru.hexlet.io/programs/frontend)
 
-Стартовый шаблон для разработки проектов на javaScript с тестами, линтером и GitHub Actions.
+![Linter check](https://github.com/alistkov/hexlet-frontend/actions/workflows/linter-check.yml/badge.svg)
+![Tests check](https://github.com/alistkov/hexlet-frontend/actions/workflows/test-check.yml/badge.svg)
 
-### Установить зависимости
-
-```
-make install
-```
-
-### Запустить линтер
-
-```
-make lint
-```
-
-### Запустить тесты
-
-```
-make test
-```
-
-### Запустить тесты с watch
-
-```
-make test-watch
-```
+Репозиторий с выполненными задачами прохождения профессии [Frontend-разработчик](https://ru.hexlet.io/programs/frontend) на [hexlet.io](https://ru.hexlet.io/).
