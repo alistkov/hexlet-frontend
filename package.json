@@ -36,6 +36,7 @@
     "nodemon": "^2.0.20"
   },
   "dependencies": {
+    "@hexlet/immutable-fs-trees": "^0.7.1",
     "lodash": "^4.17.21"
   }
 }
